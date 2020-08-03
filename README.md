@@ -22,3 +22,6 @@ master分支和HEAD指针
 
 
 使用git commit的时候就是将暂存区的修改提交到master分支；
+
+git add and reset 1
+
